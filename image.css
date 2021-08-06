@@ -18,6 +18,16 @@ span {
   font-size: 20px;
 }
 
+
+input[type=text] {
+  background-image: url('outline_search_black_24dp.png');
+  background-position: 1px 1px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+  height: 20px;
+  border-radius: 25px;
+}
+
 .boxSize {
   width: 300px;
 }
